@@ -1,2 +1,3 @@
 # autocommit
-autocommiter
+
+Avoiding commit / push madness While Using Github
